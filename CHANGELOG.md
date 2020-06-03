@@ -1,5 +1,25 @@
 # Changelog
 
+### [1.30.10](https://www.github.com/googleapis/google-api-java-client/compare/v1.30.9...v1.30.10) (2020-06-03)
+
+
+### Bug Fixes
+
+* cleanup checkstyle import rules ([#1503](https://www.github.com/googleapis/google-api-java-client/issues/1503)) ([ce22c0e](https://www.github.com/googleapis/google-api-java-client/commit/ce22c0ea7d02bd1807eae0076bfe55db1a3b754c))
+* cleanup commented code of version control ([#1504](https://www.github.com/googleapis/google-api-java-client/issues/1504)) ([5b1968d](https://www.github.com/googleapis/google-api-java-client/commit/5b1968d7bb05affd211b3403a6acc18c3d0c23d9))
+
+
+### Documentation
+
+* removes reference to deprecated service (Google+) ([#1530](https://www.github.com/googleapis/google-api-java-client/issues/1530)) ([b257207](https://www.github.com/googleapis/google-api-java-client/commit/b2572075418dbbb86b9da8901184c72966464520))
+
+
+### Dependencies
+
+* remove excess dependencies ([#1502](https://www.github.com/googleapis/google-api-java-client/issues/1502)) ([dbe6287](https://www.github.com/googleapis/google-api-java-client/commit/dbe6287dac5b7340827a03c0977ad8f350b58eae))
+* update oauth client ([#1499](https://www.github.com/googleapis/google-api-java-client/issues/1499)) ([b9c222c](https://www.github.com/googleapis/google-api-java-client/commit/b9c222cfdc4578dabca48cfbe64068f4f70d3b18))
+* update to Guava 29.0 ([#1516](https://www.github.com/googleapis/google-api-java-client/issues/1516)) ([fda223d](https://www.github.com/googleapis/google-api-java-client/commit/fda223d5da5076396bc896db3227facde17e89e5))
+
 ### [1.30.9](https://www.github.com/googleapis/google-api-java-client/compare/v1.30.8...v1.30.9) (2020-02-18)
 
 
